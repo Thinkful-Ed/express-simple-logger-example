@@ -1,2 +1,4 @@
-# hyperdev-redirect-middleware-1
-Express app demonstrating middleware for redirects
+Middleware, routes, modules example
+===================================
+
+For Thinkful's Node course
