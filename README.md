@@ -1,4 +1,4 @@
-Middleware, routes, modules example
-===================================
+Route direction middleware # 1
+==============================
 
-For Thinkful's Node course
+https://github.com/Thinkful-Ed/hyperdev-redirect-middleware-1
